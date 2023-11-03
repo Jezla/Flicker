@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+html {
+  font-size: 16px;
+  font-family: var(--font-poppins);
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+}
+
+.ant-btn-primary:not([disabled]) {
+  background:#435334 !important;
+}
+
+.ant-btn-primary:not([disabled]):hover {
+  background:#CEDEBD !important;
+}
+
+.ant-image-mask {
+  border-radius: 1rem !important;
+}
+
+.ant-tabs-content {
+  height: 100% !important;
+}
+
+.ant-tabs-tabpane {
+  height: 100% !important;
+}
+
+.ant-dropdown-menu {
+  max-height: 40vh;
+  overflow: auto;
+}

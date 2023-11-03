@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b944f8e0-888b-4bf2-b144-420847eec854" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../back-end/Flicker/src/main/java/com/elec5619/group14/flicker/ChatApp/service/FriendshipService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../back-end/Flicker/src/main/java/com/elec5619/group14/flicker/ChatApp/service/FriendshipService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/ConversationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/ConversationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/FriendshipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/FriendshipTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/MessageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/MessageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/TranscriptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/TranscriptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/TranslationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../back-end/Flicker/src/test/java/com/elec5619/group14/flicker/ChatApp/TranslationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Vc9VWIMuz5T4KOHKodtgjPtre9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/cuongnguyen/Desktop/University-of-Sydney/Semester-2-2023/ELEC5619/Projects/Chat-App/ELEC_5619/front-end&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b944f8e0-888b-4bf2-b144-420847eec854" name="Changes" comment="" />
+      <created>1695124526389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695124526389</updated>
+      <workItem from="1695124534891" duration="4083000" />
+      <workItem from="1695804873347" duration="4087000" />
+      <workItem from="1696314323801" duration="3926000" />
+      <workItem from="1696646800770" duration="5260000" />
+      <workItem from="1696918973604" duration="12966000" />
+      <workItem from="1697086736438" duration="3628000" />
+      <workItem from="1697167419371" duration="3344000" />
+      <workItem from="1697175596751" duration="1849000" />
+      <workItem from="1697201851266" duration="597000" />
+      <workItem from="1697272846641" duration="544000" />
+      <workItem from="1697443025952" duration="1143000" />
+      <workItem from="1697523600655" duration="2866000" />
+      <workItem from="1697549066654" duration="596000" />
+      <workItem from="1697551815230" duration="1194000" />
+      <workItem from="1697617691092" duration="2233000" />
+      <workItem from="1697689573034" duration="3581000" />
+      <workItem from="1698124538880" duration="587000" />
+      <workItem from="1698147355296" duration="6061000" />
+      <workItem from="1698379630867" duration="748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
