@@ -1,6 +1,6 @@
 
 
-# `Group 14` - ELEC_5619 Object Oriented Application Frameworks 
+# Object Oriented Application Frameworks 
 
  `Flicker` - a translation messaging webapp.
 
